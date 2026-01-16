@@ -1,3 +1,5 @@
+
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h> // For rand()
@@ -109,4 +111,5 @@ int main() {
 
     printf("\nThank you for playing!\n");
     return 0;
+
 }
